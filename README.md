@@ -2,7 +2,7 @@
 
 Link para Visualizar el Proyecto
 
-## https://generador-contrase-as-javascript.vercel.app/
+## https://movie-app-javascript.vercel.app/
 
 Proyecto con la Funcion de Consultar Peliculas a Travez de la Api de OMDB.
 
